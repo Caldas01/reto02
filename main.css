@@ -4,6 +4,21 @@
 
 }
 
+.titulo{
+    font-family: fantasy;
+    font-size: xx-large;
+    text-shadow: 5px 5px 1px black;
+}
+
+.subtitulo{
+    font-family: monospace;
+    font-size: large;
+}
+
+.parrafo{
+    font-size: medium;
+}
+
 
 .body{
     display: flex;

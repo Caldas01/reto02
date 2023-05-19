@@ -4,10 +4,11 @@
 
 }
 
+
 .titulo{
     font-family: fantasy;
     font-size: xx-large;
-    text-shadow: 5px 5px 1px black;
+    text-shadow: 2px 2px 2px black;
 }
 
 .subtitulo{
@@ -24,7 +25,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(https://i0.wp.com/medioambienteynaturaleza.com/wp-content/uploads/2015/08/Aurora-boreal-ab.jpeg?ssl=1);
+    background: url(https://i0.wp.com/medioambienteynaturaleza.com/wp-content/uploads/2015/08/Aurora-boreal-ab.jpeg?ssl=1);
     background-size: cover;
     background-position: center;
     text-align: center;
@@ -48,6 +49,7 @@
 
 .titulo,.subtitulo,.parrafo{
     letter-spacing: 2px;
+    color: white;
 }
 
 
